@@ -78,5 +78,3 @@ Integrate with a dog breed database API to fetch more comprehensive data.
 
  #### Contributing
 If you find any issues or have suggestions for improvement, please feel free to open a new issue or submit a pull request.
-License
-This project is licensed under the MIT License.
