@@ -16,7 +16,7 @@ Features
 #### Recharts: A composable charting library built on React components.
 
 ## Getting Started
-###Prerequisites
+### Prerequisites
 
 #### Node.js (version 14 or higher)
     npm (version 6 or higher)
